@@ -1,0 +1,11 @@
+C:\Users\Drako\Desktop\Reto 2\Reto 2\Reto 2\bin\Debug\Reto 2.exe.config
+C:\Users\Drako\Desktop\Reto 2\Reto 2\Reto 2\bin\Debug\Reto 2.exe
+C:\Users\Drako\Desktop\Reto 2\Reto 2\Reto 2\bin\Debug\Reto 2.pdb
+C:\Users\Drako\Desktop\Reto 2\Reto 2\Reto 2\obj\Debug\Reto 2.csproj.AssemblyReference.cache
+C:\Users\Drako\Desktop\Reto 2\Reto 2\Reto 2\obj\Debug\Reto 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Drako\Desktop\Reto 2\Reto 2\Reto 2\obj\Debug\Reto_2.Form1.resources
+C:\Users\Drako\Desktop\Reto 2\Reto 2\Reto 2\obj\Debug\Reto_2.Properties.Resources.resources
+C:\Users\Drako\Desktop\Reto 2\Reto 2\Reto 2\obj\Debug\Reto 2.csproj.GenerateResource.cache
+C:\Users\Drako\Desktop\Reto 2\Reto 2\Reto 2\obj\Debug\Reto 2.csproj.CoreCompileInputs.cache
+C:\Users\Drako\Desktop\Reto 2\Reto 2\Reto 2\obj\Debug\Reto 2.exe
+C:\Users\Drako\Desktop\Reto 2\Reto 2\Reto 2\obj\Debug\Reto 2.pdb
